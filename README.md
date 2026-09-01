@@ -48,40 +48,6 @@ frugal-burn-tracker/
 └── test_app.py
 ```
 
-### Application Files
-
-**`app.py`**
-Main Flask application.
-
-**`calculations.py`**
-Financial calculation logic used by the application.
-
-**`database.py`**
-Database-related functionality.
-
-**`schema.sql`**
-SQLite database schema.
-
-**`frugal_burn.db`**
-SQLite database used by the application.
-
-**`test_app.py`**
-Application test suite.
-
-**`requirements.txt`**
-Python dependency specification.
-
-### Directories
-
-**`templates/`**
-HTML templates used by the Flask application.
-
-**`static/`**
-Static application assets and styling.
-
-**`__pycache__/`**
-Python-generated cache files.
-
 ---
 
 ## Documentation
